@@ -1,7 +1,7 @@
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
-#include "src\EyesCharacters\src\EyesCharacters.h"
+#include "src\EyesCharacters.h"
 
 // Endereço I2C mais comum: 0x27
 // Se não funcionar, tente 0x3F
